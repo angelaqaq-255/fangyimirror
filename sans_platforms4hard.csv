@@ -33,8 +33,8 @@
 0,JMPNG,35,$EndY,440,,,,,
 0,SET,EndY,440,,,,,,
 0,ANGLE,Ang,$EndX,$EndY,$HeartX,$HeartY,,,
-0,GasterBlaster,0,$X,$Y,$EndX,$EndY,$Ang,0.46666,0.03333
+0,,,,,,,,,
 0.53333,JMPNZ,14,$Loop,,,,,,
-1,DamagePlayer,-15,1,,,,,,
+1,DamagePlayer,-30,0,,,,,,
 0,Sound,heartsplit,1,,,,,,
 0,EndAttack,,,,,,,,
