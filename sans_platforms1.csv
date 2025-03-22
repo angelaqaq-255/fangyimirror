@@ -53,6 +53,6 @@
 0.43,gasterblaster,1,0,0,450,356,180,1,0.1666
 0,gasterblaster,1,0,0,261,166,90,1,0.1666
 0,gasterblaster,1,0,0,390,166,90,1,0.1666
-1.4,DamagePlayer,-15,1,,,,,,
+1.4,DamagePlayer,-30,0,,,,,,
 0,sound,heartsplit,1,,,,,,
 0,EndAttack,,,,,,,,
